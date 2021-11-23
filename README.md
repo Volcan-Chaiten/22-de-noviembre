@@ -1,22 +1,8 @@
 # 22-de-noviembre
+# Chaitén, erupción inesperada
 
-# Volcán Chaiten
+## Volcán Chaiten
 Chile es uno de los 5 países con más volcanes activos en el mundo (Chile, Indonesia, Estados Unidos, Japón, Rusia), con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan. El jueves 1 de mayo de 2008 inesperadamente el volcán Chaitén entra en erupción causando la destrucción casi por completo la ciudad de Chaitén.
-
-## Chaitén, erupción inesperada
-__Información del volcán Chaitén__ 
-
-| Nombre | Volcán Chaitén |
-|:----------|:----------|
-| Coordenadas | 42°50’S – 72°39’O |
-| Poblados más cercanos | Chaitén (Com. Chaitén, R. de los Lagos), El Amarillo (Com.Chaiten, R. de los Lagos) y Santa Barbara (Com. Chaitén, R. de los Lagos) |
-| Tipo de volcán | Complejo de Domos y Caldera |
-| Altura | 18,5 km^2 |
-| Volumen estimado | 7 km^3 |
-| Ranking Riesgo Específico | 11 |
-| Medidas caldera | (2,5 x 4) km |
-| Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables. Las nieves y las lluvias pueden generar lahares. |
-
 
 __El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ 
 
